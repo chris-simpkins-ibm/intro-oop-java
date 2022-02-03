@@ -1,3 +1,5 @@
+This repository has moved to https://gitlab.com/cs1331/cs1331.gitlab.io.
+
 # Introduction to Object-Oriented Programming
 
 Course materials for my [CS 1331 - Introduction to Object-Oriented Programming](http://www.cc.gatech.edu/~simpkins/teaching/gatech/cs1331/) course at [Georgia Tech](http://www.gatech.edu/).  In addition to course materials, this repo contains the source for a [Jekyll](http://jekyllrb.com/) site, whose generated output I use as the course web site.
